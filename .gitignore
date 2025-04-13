@@ -1,0 +1,29 @@
+# === GENERAL / GLOBAL ===
+.DS_Store
+*.log
+*.swp
+.vscode/
+.idea/
+
+# === BACKEND: Python / Django ===
+__pycache__/
+.venv/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.mypy_cache/
+.coverage
+htmlcov/
+.cache/
+instance/
+*.sqlite3
+*.db
+.env
+
+# === MISC ===
+*.env
+.env.*
+
